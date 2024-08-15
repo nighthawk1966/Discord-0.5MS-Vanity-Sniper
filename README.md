@@ -5,4 +5,6 @@
 
 Bunun gibi sniperi kullanmayı bilmeyenler discord.gg/1966 dan bana ulaşabilir discord : nightsocial 
 
+# Fotodaki sniperdır.
 
+![dcavm-sniper-open-sc-api-v10-31393330](https://github.com/user-attachments/assets/441339f8-50da-4df3-988b-362149f8a56c)
